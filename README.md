@@ -17,9 +17,9 @@ This will save time scrolling through all the stories.
 -   Hacker News is dynamically updated, therefore, stories that previously did not make it to the list could eventually be displayed if they gained 99+ votes
 
 ## Python libraries Used
-Requests
-BeautifulSoup
-PPTINT
+- Requests
+- BeautifulSoup
+- PPTINT
  
 
 ## Try it
